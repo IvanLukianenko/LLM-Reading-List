@@ -40,8 +40,8 @@ Activation
 
 Pruning
 
-* [Optimal Brain Damage](https://proceedings.neurips.cc/paper/1989/hash/6c9882bbac1c7093bd25041881277658-Abstract.html) (1990) [DONE]
-* [Optimal Brain Surgeon](https://proceedings.neurips.cc/paper/1992/file/303ed4c69846ab36c2904d3ba8573050-Paper.pdf) (1993) [DONE]
+* [Optimal Brain Damage](https://proceedings.neurips.cc/paper/1989/hash/6c9882bbac1c7093bd25041881277658-Abstract.html) (1990) DONE
+* [Optimal Brain Surgeon](https://proceedings.neurips.cc/paper/1992/file/303ed4c69846ab36c2904d3ba8573050-Paper.pdf) (1993) DONE
 * [Optimal Brain Compression: A Framework for Accurate Post-Training Quantization and Pruning](https://arxiv.org/abs/2208.11580) (Jan. 2023) - Introduces Optimal Brain Quantization based on the Optimal Brain Surgeon
 * [Learning to Prune Deep Neural Networks via Layer-wise Optimal Brain Surgeon](https://arxiv.org/abs/1705.07565)
 * [SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot](https://arxiv.org/abs/2301.00774)
@@ -49,7 +49,7 @@ Pruning
 
 Quantization
 
-* [LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale](https://arxiv.org/abs/2208.07339)[DONE] - Quantization with outlier handling. Might be solving the wrong problem - see "Quantizable Transformers" below.
+* [LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale](https://arxiv.org/abs/2208.07339) DONE - Quantization with outlier handling. Might be solving the wrong problem - see "Quantizable Transformers" below.
 * [SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models](https://arxiv.org/abs/2211.10438) - Another approach to quantization with outliers
 * [Up or Down? Adaptive Rounding for Post-Training Quantization](https://arxiv.org/abs/2004.10568) (Qualcomm 2020) - Introduces AdaRound
 * [Understanding and Overcoming the Challenges of Efficient Transformer Quantization](https://arxiv.org/abs/2109.12948) (Qualcomm 2021)
@@ -79,8 +79,8 @@ Sparsity and rank compression
 
 Fine-tuning
 
-* [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685) [DONE]
-* [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314) [DONE]
+* [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685) DONE
+* [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314) DONE
 * [DyLoRA: Parameter Efficient Tuning of Pre-trained Models using Dynamic Search-Free Low-Rank Adaptation](https://arxiv.org/abs/2210.07558) - works over a range of ranks
 * [Full Parameter Fine-tuning for Large Language Models with Limited Resources](https://arxiv.org/abs/2306.09782)
 
